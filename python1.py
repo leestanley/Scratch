@@ -1,4 +1,4 @@
-s = "input"
-s1 = [1, 2, 3, 4]
-print("Substring", s[-3:])
-print(s1[1])
+print("hello")
+x = 3
+if x == 3:
+    print("hello" - 1)  # this line is never run, so the error is never thrown
