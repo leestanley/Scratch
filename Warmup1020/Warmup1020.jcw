@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Warmup1020</label>
+	</settings>
+	<users>
+		<user>
+			<path>Warmup1020.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Warmup1020.jcp</path>
+		</project>
+	</projects>
+</workspace>

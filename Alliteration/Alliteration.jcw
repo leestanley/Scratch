@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Alliteration</label>
+	</settings>
+	<users>
+		<user>
+			<path>Alliteration.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Alliteration.jcp</path>
+		</project>
+	</projects>
+</workspace>

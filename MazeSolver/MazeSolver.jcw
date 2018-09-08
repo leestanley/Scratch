@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>MazeSolver</label>
+	</settings>
+	<users>
+		<user>
+			<path>MazeSolver.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MazeSolver.jcp</path>
+		</project>
+	</projects>
+</workspace>

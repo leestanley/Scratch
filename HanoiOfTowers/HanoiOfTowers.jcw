@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>HanoiOfTowers</label>
+	</settings>
+	<users>
+		<user>
+			<path>HanoiOfTowers.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>HanoiOfTowers.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Tic</label>
+	</settings>
+	<users>
+		<user>
+			<path>Tic.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Tic.jcp</path>
+		</project>
+	</projects>
+</workspace>

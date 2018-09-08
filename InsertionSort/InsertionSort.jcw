@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>InsertionSort</label>
+	</settings>
+	<users>
+		<user>
+			<path>InsertionSort.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>InsertionSort.jcp</path>
+		</project>
+	</projects>
+</workspace>

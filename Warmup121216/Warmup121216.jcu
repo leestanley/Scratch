@@ -1,0 +1,18 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>Warmup121216</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Warmup121216</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>docs</path>
+			</folderitem>
+		</project>
+	</projects>
+</workspace_user>

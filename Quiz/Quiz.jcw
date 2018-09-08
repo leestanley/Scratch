@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Quiz</label>
+	</settings>
+	<users>
+		<user>
+			<path>Quiz.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Quiz.jcp</path>
+		</project>
+	</projects>
+</workspace>

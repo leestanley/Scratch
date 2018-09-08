@@ -1,0 +1,19 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Counting</label>
+	</settings>
+	<users>
+		<user>
+			<path>Counting.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Assignment8\Assignment8.jcp</path>
+		</project>
+		<project>
+			<path>Counting.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Connect4</label>
+	</settings>
+	<users>
+		<user>
+			<path>Connect4.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Connect4.jcp</path>
+		</project>
+	</projects>
+</workspace>

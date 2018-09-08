@@ -1,0 +1,30 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>Warmup0201</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Warmup0201</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Warmup0201\classes</path>
+			</folderitem>
+			<folderitem>
+				<path>Warmup0201\docs</path>
+			</folderitem>
+		</project>
+		<project>
+			<label>Array3</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Array3.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

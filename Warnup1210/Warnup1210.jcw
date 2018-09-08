@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Warnup1210</label>
+	</settings>
+	<users>
+		<user>
+			<path>Warnup1210.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Warnup1210.jcp</path>
+		</project>
+	</projects>
+</workspace>

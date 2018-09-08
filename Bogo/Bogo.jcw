@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Bogo</label>
+	</settings>
+	<users>
+		<user>
+			<path>Bogo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Bogo.jcp</path>
+		</project>
+	</projects>
+</workspace>

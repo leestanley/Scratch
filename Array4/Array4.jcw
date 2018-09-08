@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Array4</label>
+	</settings>
+	<users>
+		<user>
+			<path>Array4.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Array4.jcp</path>
+		</project>
+	</projects>
+</workspace>

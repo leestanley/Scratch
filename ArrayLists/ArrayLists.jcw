@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ArrayLists</label>
+	</settings>
+	<users>
+		<user>
+			<path>ArrayLists.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ArrayLists.jcp</path>
+		</project>
+	</projects>
+</workspace>

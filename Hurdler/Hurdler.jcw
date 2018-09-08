@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Hurdler</label>
+	</settings>
+	<users>
+		<user>
+			<path>Hurdler.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Hurdler.jcp</path>
+		</project>
+	</projects>
+</workspace>

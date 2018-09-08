@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Diag</label>
+	</settings>
+	<users>
+		<user>
+			<path>Diag.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Diag.jcp</path>
+		</project>
+	</projects>
+</workspace>

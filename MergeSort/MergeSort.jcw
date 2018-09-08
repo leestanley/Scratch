@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>MergeSort</label>
+	</settings>
+	<users>
+		<user>
+			<path>MergeSort.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MergeSort.jcp</path>
+		</project>
+	</projects>
+</workspace>

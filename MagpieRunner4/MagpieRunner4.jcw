@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>MagpieRunner4</label>
+	</settings>
+	<users>
+		<user>
+			<path>MagpieRunner4.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MagpieRunner4.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,20 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>Assignment8</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Assignment8</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Assignment8.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

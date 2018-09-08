@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>SelectionSort</label>
+	</settings>
+	<users>
+		<user>
+			<path>SelectionSort.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SelectionSort.jcp</path>
+		</project>
+	</projects>
+</workspace>

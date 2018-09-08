@@ -1,0 +1,26 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>MazeSolver</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>MazeSolver</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>MazeSolver.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>SolveMaze.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>

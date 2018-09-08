@@ -1,0 +1,26 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>Euler</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Euler</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Euler.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>EulerSolution.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>

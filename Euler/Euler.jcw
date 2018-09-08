@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Euler</label>
+	</settings>
+	<users>
+		<user>
+			<path>Euler.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Euler.jcp</path>
+		</project>
+	</projects>
+</workspace>
