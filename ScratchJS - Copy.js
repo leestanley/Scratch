@@ -1,7 +1,6 @@
-name = 'cat'
-
-if(name.length > 1 ) {
-    name = name.slice(0,10) + '...'
+for (const i = 0; i < 5; i++) {
+    i = 3
 }
 
-console.log(name)
+
+print(i)

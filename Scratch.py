@@ -1,15 +1,11 @@
-def fizzBuzz(n: int):
-    arr = []
-    for i in range(n):
-        if i % 3 == 0 and i % 5 == 0 and i != 0:
-            arr.append("FizzBuzz")
-        elif i % 3 == 0:
-            arr.append("Fizz")
-        elif i % 5 == 0:
-            arr.append("buzz")
+def duplicate_count(txt):
+    count = 0
+    hasher = {}
+    for i in txt:
+        if i not in hasher:
+            hasher[i] = 0
         else:
-            arr.append(i)
-    return arr
-
-
-print(fizzBuzz(15))
+            hasher[i] += 1
+            if hasher[i] == 1:
+                count += 1
+    return count
